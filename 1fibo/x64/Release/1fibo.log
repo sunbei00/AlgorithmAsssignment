@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\00kwo\source\repos\Algorithm\1fibo\Main.cpp(47,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  0 of 27 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  1fibo.vcxproj -> C:\Users\00kwo\source\repos\Algorithm\x64\Release\1fibo.exe
